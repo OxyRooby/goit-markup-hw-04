@@ -107,13 +107,13 @@ img {
 }
 
 .header-icon-envelope {
-    color: #757575;
+    fill: #757575;
     margin-right: 10px;
     width: 16px;
 
 }
 .header-icon-tel {
-    color: #757575;
+    fill: #757575;
     width: 10px;
     margin-right: 10px;
     margin-left: 50px;
